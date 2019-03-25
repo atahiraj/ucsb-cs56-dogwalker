@@ -1,5 +1,9 @@
 # ucsb-cs56-dogwalker
-Dog walker/playdate matcher
+Dog walker/playdate matcher - an application that allows dog owners and walkers to find people to walk their dogs or have playdates with.
+
+This was an application which we build for out Advanced Application Programming class at UCSB. The goal of the class was to build a minimum viable product that future students who take the class can improve upon.
+
+How to run:
 
 make a .env with ur mlab stuff then do . .env before compiling
 USE JAVA8
